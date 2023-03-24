@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT development sector 
 - 🌱 I’m currently learning Java programming language 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Linkedln, discord
+- 📫 How to reach me GitHub, email, discord
 
 <!---
 tonmoy-007/tonmoy-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
